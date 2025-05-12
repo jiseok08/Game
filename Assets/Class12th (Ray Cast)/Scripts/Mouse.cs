@@ -8,7 +8,6 @@ public class Mouse : MonoBehaviour
     [SerializeField] Ray ray;
     [SerializeField] LayerMask layerMask;
     [SerializeField] RaycastHit raycastHit;
-    
 
 void Update()
     {
